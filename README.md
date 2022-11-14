@@ -1,2 +1,3 @@
 # Estetica
-proyecto
+proyecto-estetica
+
