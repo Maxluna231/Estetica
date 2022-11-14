@@ -47,7 +47,7 @@ background-color:black;
 #linea{
     font-family:Bold;
     text-indent:1px;
-    font-size: 100px;
+    font-size: 90px;
   
 }
 
