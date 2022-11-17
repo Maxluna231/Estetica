@@ -33,7 +33,7 @@
             
             <div id="contenedorcentrado">
                 <div id="login">
-                    <form action="<?=base_url('index.php/Usuario/pasa')?>" method="POST" >
+                    <form action="<?=base_url('index.php/Inicio/Index')?>" method="POST" >
                         <label for="usuario">Correo</label>
                         <input class="input-box" id="CorreoElectronico" type="email" name="CorreoElectronico" placeholder="Correo" required>
                         
