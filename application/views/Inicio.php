@@ -12,8 +12,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous">
     </script>
     <link href="http://localhost/proyecto-estetica/plantilla/css/colores.css" rel="stylesheet">
-
-
 </head>
 
 <body>
@@ -96,24 +94,23 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             </li>
         </ul>
     </div>
-    <li id="imagen1" class="nav-item">
-        <img class="imagen1" src="http://localhost/proyecto-estetica/imagenes/logo.jpg">
-        <div id="color" class="contenedor-responsive">
-            <p id="contacto">DIRECCION </p>
-            <p id="contacto">Ciudad: Teziutlan</p>
-            <p id="contacto">Direccion: Av.centro N*178</p>
-            <p id="contacto">Codigo Postal: 73800</p>
 
-            <div id="movimiento" class="contenedor-responsive">
-                <ul id="movimiento">
-                    <li class="nav-item">
-                        <p id="contacto">CONTACTO</p>
-                        <p id="contacto">Telefono: 231-197-11-20</p>
-                        <p id="contacto">Correo electronico: esteticatorres@gmail.com</p>
-                        <p id="contacto">FACEBOOK: esteticatorres</p>
-                    </li>
-            </div>
+    <div id="color" class="contenedor-responsive">
+        <p id="contacto">DIRECCION </p>
+        <p id="contacto">Ciudad: Teziutlan</p>
+        <p id="contacto">Direccion: Av.centro N*178</p>
+        <p id="contacto">Codigo Postal: 73800</p>
+
+        <div id="movimiento" class="contenedor-responsive">
+            <ul id="movimiento">
+                <li class="nav-item">
+                    <p id="contacto">CONTACTO</p>
+                    <p id="contacto">Telefono: 231-197-11-20</p>
+                    <p id="contacto">Correo electronico: esteticatorres@gmail.com</p>
+                    <p id="contacto">FACEBOOK: esteticatorres</p>
+                </li>
         </div>
+    </div>
 
 </body>
 
