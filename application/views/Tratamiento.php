@@ -54,6 +54,16 @@ top: -100px;
 right: 20px
 
 }
+
+#toxina{
+    color: white;
+}
+
+#tox{
+    padding: -100px; margin: 10px; border: 200px green; float: left; width: 300px;
+    left: 20px;
+    center: 200px;
+}
     </style>
     
 
@@ -77,9 +87,17 @@ right: 20px
      
      <image class="img-fluid" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTebYhuV-1xuZH1V-xAaR3v7M0uKLr3nKd88g&usqp=CAU">
 </div>
+
+<div class="container">
+   <div class="row">
+    <div id="toxina"class="col-md-3 ms-md-auto">Toxina botulinica</div>
+    <img id="tox" class="col-md-3 ms-md-auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTebYhuV-1xuZH1V-xAaR3v7M0uKLr3nKd88g&usqp=CAU" class="rounded float-start" alt="100">
+    <img id ="tox"class="imagen1" src="http://localhost/proyecto-estetica/imagenes/manicure.jpg">
+    <div id="toxina"class="col-md-3 ms-md-auto">Acido hialoronico</div>
+</div>
 <div class="contenedor1">
     <p id="contacto" >DIRECCION</p>
-    <p id="contacto1" >Ciudad: Teziutlan</p>
+    <p id="contacto1" >Ciudad:Teziutlan</p>
     <p id="contacto2" >Direccion: Av.centro N*178</p>
     <p id="contacto3" >Codigo Postal: 73800</p>
     <p id="contacto4" >CONTACTO</p>
