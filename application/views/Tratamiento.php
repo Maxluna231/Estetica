@@ -68,10 +68,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
     <div id="cotizar" class="d-grid gap-2 col-6 mx-auto">
         <a class="btn btn-warning" /* Con mensaje predefinido */
-            href="https://api.whatsapp.com/send?phone=+522311494107&text=Hola, Nececito mas informacion!">Cotizar
+            href="https://api.whatsapp.com/send?phone=2311139893&text=Hola%21%20Quisiera%20m%C3%A1s%20informaci%C3%B3n.!">Cotizar
             Tratamiento</a>
-    </div>
-
+</div>
 
     <div id="color" class="contenedor-responsive">
         <p id="contacto">DIRECCION </p>

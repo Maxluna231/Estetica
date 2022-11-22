@@ -22,7 +22,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <ul>
             <h1 id="color-name">ESTETICA TORRES</h1>
             <ul class="nav-items">
-                <a id="color-name2" href="Inicio">Iniciar Sesion </a>
+                <a id="color-name2" href="User/login">Iniciar Sesion </a>
                 <image class="img-fluid"
                     src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTebYhuV-1xuZH1V-xAaR3v7M0uKLr3nKd88g&usqp=CAU">
             </ul>

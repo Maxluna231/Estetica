@@ -11,7 +11,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous">
     </script>
-    <link href="http://localhost/proyecto-estetica/plantilla/css/colores.css" rel="stylesheet">
+    <link href="http://localhost/proyecto-estetica/plantilla/css/coloresM.css" rel="stylesheet">
 </head>
 <body>
 
@@ -25,6 +25,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <a id="color-name2" href="#">Tratamiento </a>
             <a id="color-name2" href="#">Informacion</a>
             <a id="color-name2"> Servicios</a>
+            <a href="User/cerrar_sesion">Cerrar Sesion</a>
         </ul>
         <image class="img-fluid"
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTebYhuV-1xuZH1V-xAaR3v7M0uKLr3nKd88g&usqp=CAU">
@@ -34,7 +35,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <ul class="nav nav-pills nav-fill">
             <li class="nav-item">
 
-                <a class="btn btn-dark" href="#" role="button">MANICURE</a>
+                <a class="btn btn-dark" href="manicure" role="button">MANICURE</a>
             </li>
             <li class="nav-item">
                 <a class="btn btn-dark" href="#" role="button">MAQUILLAJE</a>
@@ -108,6 +109,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                     <p id="contacto">Correo electronico: esteticatorres@gmail.com</p>
                     <p id="contacto">FACEBOOK: esteticatorres</p>
                 </li>
+</ul>
         </div>
     </div>
 

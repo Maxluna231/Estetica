@@ -1,0 +1,64 @@
+body {
+    background-color: black;
+}
+
+
+
+
+#color-name {
+    font-family: Bold;
+    color: purple;
+    padding: 20px;
+    text-indent: 150px;
+    text-shadow: 1px 1px 1px red;
+    font-size: 25px;
+    right: 15px;
+}
+
+#color-name2 {
+    font-family: Arial;
+    color: aqua;
+    text-indent: 140px;
+    font-size: 20px;
+    right: 25px;
+}
+
+.nav-items {
+    display: flex;
+}
+
+.img-fluid {
+    width: 150px;
+    height: 120px;
+    display: block;
+    position: relative;
+    top: -100px;
+    right: 20px
+}
+
+
+
+
+#contacto {
+    color: rgb(4, 247, 235);
+
+}
+
+#movimiento {
+    width: 220px;
+    height: 10px;
+    display: block;
+    position: relative;
+    top: -90px;
+    right: -479px;
+
+}
+
+#Ma {
+    color:rgb(0, 255, 106);
+    position: relative;
+    top: -90px;
+    right: -479px;
+   
+}
+
