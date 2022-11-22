@@ -13,11 +13,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     </script>
     <link href="http://localhost/proyecto-estetica/plantilla/css/colores.css" rel="stylesheet">
 </head>
-
 <body>
 
     <div id="color" class="contenedor-responsive">
-
+    <ul>
         <h1 id="color-name">ESTETICA TORRES</h1>
         <ul class="nav-items">
 

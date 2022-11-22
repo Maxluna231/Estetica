@@ -1,0 +1,118 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+#color-name2 {
+    font-family: Arial;
+    color: aqua;
+    text-indent: 140px;
+    font-size: 20px;
+    right: 25px;
+}
+
+
+#color-name {
+    font-family: Bold;
+    color: purple;
+    padding: 20px;
+    text-indent: 150px;
+    text-shadow: 1px 1px 1px red;
+    font-size: 25px;
+    right: 15px;
+}
+
+.nav-items {
+    display: flex;
+}
+
+.img-fluid {
+    width: 150px;
+    height: 120px;
+    display: block;
+    position: relative;
+    top: -100px;
+    right: 20px
+}
+#mes {
+   background-color: rgb(243, 196, 67);
+
+   }
+
+   #dias {
+    background-color: rgb(0, 233, 241);
+ 
+    }
+
+    #gris {
+        background-color: rgb(137, 146, 146);
+     
+        }
+
+        #Alta {
+            background-color: rgb(9, 255, 30);
+         
+            }
+
+            #Poca {
+                background-color: rgb(255, 166, 0);
+             
+                }
+
+                #Sin {
+                    background-color: rgb(255, 0, 0);
+                 
+                    }
+
+                    #Sin1 {
+                        background-color: rgb(255, 0, 221);
+                     
+                        }
+                        #Sin2 {
+                            background-color: rgb(87, 99, 102);
+                         
+                            }
+
+                            #SinCitas {
+                                background-color: rgb(248, 248, 248);
+                             
+                                }
+                            
+                                #CitasC {
+                                    color: rgb(248, 248, 248);
+                                    position: relative;
+                                 top: -100px;
+                                 font-size: 40px;
+                                    }
+                                
+                                    #Fecha{
+                                        color: rgb(248, 248, 248);
+                                        position: relative;
+                                        top: -100px;
+                                        font-size: 30px;
+                                    }
+
+                                    #tabla{
+                                        
+                                        position: relative;
+                                        top: -100px;
+                                        font-size: 15px;
+                                    }
+
+                                    #tabla1{
+                                        width: 690px;
+                                        position: relative;
+                                        top: -100px;
+                                        font-size: 15px;
+                                    }
+
+                                    
+                                    #a{
+                                        color:rgb(0, 0, 0);
+                                        position: relative;
+                                        top: -100px;
+                                        font-size: 15px;
+                                    }
+
+                                    #b{
+                                        color:rgb(0, 255, 149);
+                                    }

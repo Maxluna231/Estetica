@@ -1,0 +1,107 @@
+body {
+    background-color: black;
+}
+
+body {
+    background-image: url("http://localhost/proyecto-estetica/imagenes/Logo1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 30% 140px;
+    background-size: 1500px 590px;
+    /* dimensiona la imagen 20px de ancho y 40px de altura */
+}
+
+#color-name {
+    font-family: Bold;
+    color: purple;
+    padding: 20px;
+    text-indent: 150px;
+    text-shadow: 1px 1px 1px red;
+    font-size: 46px;
+    right: 15px;
+}
+
+#color-name2 {
+    font-family: Arial;
+    color: aqua;
+    text-indent: 140px;
+    font-size: 36px;
+    right: -50px;
+    position: relative;
+    top: -25px;
+    
+}
+
+#color-name1 {
+    font-family: Arial;
+    color: aqua;
+    text-indent: 140px;
+    font-size: 36px;
+    right: -50px;
+    position: relative;
+    top: -200px;
+    right: -800px;
+}
+#color-name3 {
+    font-family: Arial;
+    color: aqua;
+    text-indent: 140px;
+    font-size: 36px;
+    right: -50px;
+    position: relative;
+    top: -200px;
+    right: -1000px;
+}
+.nav-items {
+    display: flex;
+}
+
+.img-fluid {
+    width: 150px;
+    height: 120px;
+    display: block;
+    position: relative;
+    top: -100px;
+    right: 380px
+}
+
+#texto {
+    font-family: Brush Script MT;
+    color: red;
+    font-size: 120px;
+    position: relative;
+    top: -100px;
+    right: -80px;
+
+
+}
+
+#texto1 {
+    font-family: Segoe UI;
+    color: rgb(25, 0, 255);
+    text-shadow: 1px 1px 1px rgb(255, 255, 255);
+    font-size: 60px;
+    position: relative;
+    top: -100px;
+    right: -80px;
+
+
+}
+
+.button {
+background-color: rgb(247, 4, 188);
+font-family: Bold;
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+cursor: pointer;
+font-size: 54px;
+position: relative;
+right: -210px;
+top: -159px;
+}
