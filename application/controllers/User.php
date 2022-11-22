@@ -62,4 +62,17 @@ class User extends CI_Controller {
 		redirect('/');
 	}
 
+	public function cerrar_sesion() {
+		session_destroy();
+		redirect('User/login');
+	 }
+
+	 public function set_tempdata(){
+		$tempdata = array('newuser' => TRUE, 'message' => 'Thanks for joining!');
+	 }
+
+	 public function login_page(){
+		$this->load->view('login_page');
+	 }
+
 }
